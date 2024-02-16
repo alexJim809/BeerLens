@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">BeerLens</string>
     <string name="beerlens">BeerLens</string>
-    <string name="bienvenido">Bienvenido</string>
+    <string name="bienvenido">Bienvenido Neto</string>
     <string name="instrucciones">Ingresa tu nombre por favor</string>
     <string name="recordar">Recordar nombre</string>
     <string name="ingresar">Ingresar</string>
